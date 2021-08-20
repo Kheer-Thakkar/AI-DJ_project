@@ -46,11 +46,12 @@ body {
 }
 
 .play_button {
-	width: 140px;
+	width: 150px;
 	font-size: 25px;
 }
 
 canvas {
 	border: 5px solid white;
 	border-radius: 20px;
+	margin-top: 50px;
 }
